@@ -1,5 +1,5 @@
 
-Tetris
+receive e-mail
 =====================
 	`author`	:fujaz
 	`create`	:2013-5-10
